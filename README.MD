@@ -51,10 +51,10 @@ El botón submit de GET, regresará el archivo contenido en la carpeta resources
 /src/main/java
    ├── server
    │   ├── HttpServer.java (servidor principal)
-   │   ├── RequestHandler.java (gestiona solicitudes)
-   │   ├── FileHandler.java (maneja archivos estáticos)
-   │   ├── RestController.java (API REST)
    ├── app
+   |   ├── images
+   |   ├   ├── logo.png 
+   |   |   ├── background.png
    │   ├── index.html
    │   ├── style.css
    │   ├── app.js
