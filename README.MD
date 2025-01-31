@@ -72,5 +72,5 @@ Las principales pruebas incluyen:
 ### Pruebas Manuales
 Se realizaron pruebas en diferentes navegadores (Chrome, Firefox) para verificar la correcta carga de la aplicación web y las respuestas del servidor.
 
-## Daniel Alejandro Acero
+#### Daniel Alejandro Acero
 
