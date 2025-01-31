@@ -27,12 +27,12 @@ Para iniciar el servidor web, ejecuta el siguiente comando:
 ```sh
 java -jar target/servidor-web.jar
 ```
-Por defecto, el servidor escuchará en `http://localhost:8080`.
+Por defecto, el servidor escuchará en `http://localhost:35000`.
 
 ### Acceso a la Aplicación Web
 Una vez el servidor esté en ejecución, abre un navegador y accede a:
 ```
-http://localhost:8080/index.html
+http://localhost:35000/index.html
 ```
 
 ## Arquitectura del Prototipo
@@ -72,9 +72,5 @@ Las principales pruebas incluyen:
 ### Pruebas Manuales
 Se realizaron pruebas en diferentes navegadores (Chrome, Firefox) para verificar la correcta carga de la aplicación web y las respuestas del servidor.
 
-## Contribución
-Si deseas contribuir, por favor, abre un _pull request_ o reporta problemas en la sección de _issues_.
-
-## Licencia
-Este proyecto se encuentra bajo la licencia MIT.
+## Daniel Alejandro Acero
 
