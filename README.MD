@@ -23,10 +23,8 @@ Este proyecto es un servidor web minimalista desarrollado en Java sin el uso de 
 ## Ejecución
 
 ### Servidor Web
-Para iniciar el servidor web, ejecuta el siguiente comando:
-```sh
-java -jar target/servidor-web.jar
-```
+Abre la clase HTTPServer.java, ubicada en edu.eci.arep.webserver y ejecuta.
+
 Por defecto, el servidor escuchará en `http://localhost:35000`.
 
 ### Acceso a la Aplicación Web
@@ -34,6 +32,10 @@ Una vez el servidor esté en ejecución, abre un navegador y accede a:
 ```
 http://localhost:35000/index.html
 ```
+El botón submit de GET, regresará el archivo contenido en la carpeta resources y, el de POST procesará el texto ingresado.
+
+![Ejemplo de uso del formulario](images/example.png)
+
 
 ## Arquitectura del Prototipo
 
