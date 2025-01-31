@@ -32,6 +32,7 @@ Una vez el servidor esté en ejecución, abre un navegador y accede a:
 ```
 http://localhost:35000/index.html
 ```
+![Ejemplo de uso del formulario](images/run.png)
 El botón submit de GET, regresará el archivo contenido en la carpeta resources y, el de POST procesará el texto ingresado.
 
 ![Ejemplo de uso del formulario](images/example.png)
